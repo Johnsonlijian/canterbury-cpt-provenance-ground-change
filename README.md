@@ -1,5 +1,7 @@
 # Canterbury CPT provenance and depth-limited ground change
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23308668.svg)](https://doi.org/10.5281/zenodo.23308668) [![GitHub release](https://img.shields.io/github/v/release/Johnsonlijian/canterbury-cpt-provenance-ground-change)](https://github.com/Johnsonlijian/canterbury-cpt-provenance-ground-change/releases/tag/v1.0.0)
+
 Public reproducibility package for the study:
 
 > Test dates expose investigation provenance and depth-limited ground change in the Canterbury CPT liquefaction case histories
