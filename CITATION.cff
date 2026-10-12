@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or aggregate outputs, please cite this release."
+title: "Canterbury CPT provenance and depth-limited ground change"
+version: "1.0.0"
+type: software
+date-released: "2026-10-12"
+authors:
+  - family-names: Ren
+    given-names: Lijian
+    affiliation: "Inner Mongolia University of Technology"
+    email: renlijian@imut.edu.cn
+  - family-names: Tai
+    given-names: Baoqiang
+    affiliation: "Inner Mongolia University of Technology"
+    email: baoqiangtai@imut.edu.cn
+repository-code: "https://github.com/Johnsonlijian/canterbury-cpt-provenance-ground-change"
+license: MIT
+keywords:
+  - liquefaction
+  - cone penetration test
+  - Canterbury earthquake sequence
+  - data provenance
+  - post-earthquake ground change
+abstract: >-
+  Reproducibility code, aggregate outputs and figure exports for a
+  provenance-aware analysis of Canterbury CPT liquefaction case histories.
+
